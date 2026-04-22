@@ -27,6 +27,16 @@ Mental health issues among university students (stress, anxiety, depression) are
 13. Assemble full dashboard with `FastListTemplate`
 14. Run instructions
 
+## Setup
+1. Create a virtual environment
+2. Install dependencies from `requirements.txt`
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
 ## Run Dashboard
 From repository root:
 
