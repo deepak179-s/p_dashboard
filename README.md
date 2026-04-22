@@ -27,6 +27,18 @@ Mental health issues among university students (stress, anxiety, depression) are
 13. Assemble full dashboard with `FastListTemplate`
 14. Run instructions
 
+## Dashboard Features
+- Interactive stress-level slider filter
+- Selectable y-axis metric for trend visualizations
+- Selectable metric for residence-type comparison bars
+- KPI sidebar showing total students, high-risk count/rate, average stress, and average depression
+
+## Engineered Columns Used in Analysis
+- `High_Risk`
+- `Mental_Health_Score`
+- `Age_Group`
+- `CGPA_Category`
+
 ## Setup
 1. Create a virtual environment
 2. Install dependencies from `requirements.txt`
