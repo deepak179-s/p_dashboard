@@ -1,12 +1,17 @@
 # Student Mental Health Analysis Dashboard
 
+![Dashboard Preview](image/dashboard.png)
+
 This project analyzes student mental health survey data and builds an interactive dashboard using **Panel** and **hvPlot**.
 
 ## Notebook
 - `Student_Mental_Health_Dashboard.ipynb`
 
 ## Dataset
-- `students_mental_health_survey_dirty.csv`
+- `students_mental_health_survey.csv`
+
+## Visualizations
+The `image` folder contains various static charts and visualizations related to this project.
 
 ## Problem Focus
 Mental health issues among university students (stress, anxiety, depression) are increasing. This notebook cleans noisy survey data, derives risk-focused features, and presents interactive visual analysis.
